@@ -1,0 +1,53 @@
+h1{
+    color: lightseagreen;
+}
+
+div.uno{
+    background-color: lightcoral;
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
+span.ama{
+    color: yellow;
+    background-color: red;
+}
+h3 {
+    color: lightpink;
+}
+div.dos{
+    background-color: blue;
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
+div.tres{
+    background-color: gray;
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
+div.cuatro{
+    background-color: green;
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
+div.cinco{
+    background-color: rgb(128, 167, 240);
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
+div.seis{
+    background-color:brown;
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
+div.siete{
+    background-color: rgb(128, 240, 184);
+    border: 1px;
+    display: inline-block;
+    width: 33%;
+}
